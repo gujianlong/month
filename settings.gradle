@@ -1,0 +1,2 @@
+include ':app', ':gujianlong20191126'
+rootProject.name='My Application'
